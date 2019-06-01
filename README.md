@@ -1,6 +1,12 @@
 # Web Foundations coursework
 Web Foundations coursework for First Year of University. Meant to be "an electronic portfolio for your work, written  in HTML5 and CSS".
 
+## Running
+
+Clone the repository.
+
+Use `index.html` as the entry file and open it in a browser.
+
 ## Requirement Notes
 Topic Website An electronic portfolio for your work, written in HTML5 and CSS.
 
